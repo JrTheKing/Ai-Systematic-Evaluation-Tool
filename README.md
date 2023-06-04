@@ -17,7 +17,7 @@ You also need to set up your OpenAI key as an environment variable in your syste
 
 ```env
 
-OPENAI_KEY=your_key_here
+OPENAI_KEY=your_openai_key_here
 
 ```
 
