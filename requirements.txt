@@ -1,0 +1,11 @@
+pyqt5==5.15.4
+
+transformers==4.10.2
+
+matplotlib==3.4.3
+
+openai==0.27.0
+
+python-dotenv==0.19.1
+
+plotly==5.3.1
