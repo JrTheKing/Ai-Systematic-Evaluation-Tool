@@ -64,8 +64,3 @@ Please see our [Contributing Guidelines](CONTRIBUTING.md).
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
-
-Replace the CONTRIBUTING.md and LICENSE links with the actual links to your CONTRIBUTING and LICENSE files in your repository.
-
