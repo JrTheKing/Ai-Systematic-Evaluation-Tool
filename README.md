@@ -21,7 +21,7 @@ OPENAI_KEY=your_openai_key_here
 
 ```
 
-Remember to replace your_openai_key_here with your actual OpenAI API key.
+Remember to replace 'your_openai_key_here' with your actual OpenAI API key.
 
 ### Installation
 
