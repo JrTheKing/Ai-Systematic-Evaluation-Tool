@@ -58,17 +58,9 @@ The code is organized into several Python scripts each handling a specific funct
 
 - `attention.py` and `visualization.py` handle the visualization of attention scores and text.
 
-## Screenshots/Demo
-
-*(Include screenshots or a demo here)*
-
 ## Contributing
 
 If you want to contribute to this project, please check out our [contributing guidelines](CONTRIBUTING.md).
-
-## Troubleshooting
-
-*(Provide some common issues and their solutions here)*
 
 ## Support
 
