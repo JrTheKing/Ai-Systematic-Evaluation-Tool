@@ -24,6 +24,10 @@ from PyQt5.QtGui import QIntValidator
 
 from settings import SettingsWindow
 
+# Importing pyplot as plt
+
+import matplotlib.pyplot as plt
+
 # Define the function to initialize the UI components of the main application.
 
 def initUI(self):
