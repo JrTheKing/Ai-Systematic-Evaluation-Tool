@@ -28,6 +28,12 @@ from settings import SettingsWindow
 
 import matplotlib.pyplot as plt
 
+# FigureCanvasQTAgg is a widget object that is required to display any matplotlib figures in a PyQt5 application.
+
+# It is imported from the backend of matplotlib that is designed to be used with PyQt5.
+
+from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
+
 # Define the function to initialize the UI components of the main application.
 
 def initUI(self):
@@ -133,4 +139,3 @@ def open_settings(self):
     """Opens the settings window."""
 
     self.settings_window.show()
-
